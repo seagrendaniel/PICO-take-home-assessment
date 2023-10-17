@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Sour Ale",
+    "alcohol": "72.3",
+    "yeast": "1187 - 1728 - 1762 - 1762 - 1762 - 2001 - 2124 - 3068 - 3638 - 3638 - 3724",
+    "isStrongest": true
+  },
+  {
+    "name": "Stout",
+    "alcohol": "22.2",
+    "yeast": "1187 - 1272 - 1388 - 3787",
+    "isStrongest": false
+  },
+  {
+    "name": "Light Lager",
+    "alcohol": "32.8",
+    "yeast": "1214 - 1318 - 2007 - 2206 - 3278",
+    "isStrongest": false
+  }
+]

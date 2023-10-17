@@ -28,6 +28,7 @@ const getBeer = async () => {
 const getValidBeers = async (list) => {
   const beerTypesToCheck = ["Ale", "Lager", "Stout"]
   // Have to wrap function in a Promise so that api call can work with setTimeout
+  let second = 0
   return new Promise((resolve) => {
     setTimeout( async () => {
       while (list.length < 20) {
@@ -41,9 +42,7 @@ const getValidBeers = async (list) => {
             } else {
               throw new Error(`Bad beer: ${beer.name}`)
             }
-          } else {
-            list.push(beer)
-          }
+          } 
         } catch (error) {
           console.error(error.message)
         }
