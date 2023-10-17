@@ -1,20 +1,20 @@
 [
   {
-    "name": "Sour Ale",
-    "alcohol": "72.3",
-    "yeast": "1187 - 1728 - 1762 - 1762 - 1762 - 2001 - 2124 - 3068 - 3638 - 3638 - 3724",
+    "name": "Belgian And French Ale",
+    "alcohol": "93.3",
+    "yeast": "1056 - 1275 - 1318 - 1450 - 1728 - 2035 - 2633 - 3333 - 3522 - 3724 - 3787 - 5526 - 5733 - 5733",
     "isStrongest": true
   },
   {
     "name": "Stout",
-    "alcohol": "22.2",
-    "yeast": "1187 - 1272 - 1388 - 3787",
+    "alcohol": "3.9",
+    "yeast": "2007",
     "isStrongest": false
   },
   {
-    "name": "Light Lager",
-    "alcohol": "32.8",
-    "yeast": "1214 - 1318 - 2007 - 2206 - 3278",
+    "name": "European Amber Lager",
+    "alcohol": "35.9",
+    "yeast": "2001 - 2035 - 2042 - 3278 - 3944",
     "isStrongest": false
   }
 ]
